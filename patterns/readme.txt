@@ -1,0 +1,1 @@
+# Pattern examples based on "Design Patterns" by E.Gamma, R.Helm, R.Johnson, J.Vissides
